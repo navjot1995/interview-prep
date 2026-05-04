@@ -1,4 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 InterviewPrep - Master Technical Interviews
+
+A comprehensive interview preparation platform with curated questions, detailed answers, and code examples for modern web technologies. Built with Next.js, TypeScript, and TailwindCSS.
+
+![InterviewPrep Banner](https://via.placeholder.com/1200x400?text=InterviewPrep+Platform)
+
+## ✨ Features
+
+- 📖 **Comprehensive Question Bank** - Curated interview questions for multiple technologies
+- 🎯 **Category Filtering** - Filter questions by topic and difficulty level
+- 🔍 **Search Functionality** - Quick search through questions and answers
+- 💻 **Code Examples** - Toggle code snippets for practical understanding
+- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
+- 🎨 **Modern UI** - Clean interface with custom theme (#F54927)
+- ⚡ **Fast Performance** - Built with Next.js App Router for optimal speed
+- 🔒 **Type Safety** - Full TypeScript support
+
+## 🚀 Technologies Covered
+
+| Technology | Topics | Questions |
+|------------|--------|-----------|
+| **JavaScript** | Closures, Promises, ES6+, Hoisting, Event Loop | 10+ |
+| **React.js** | Hooks, Lifecycle, Redux, Fiber, Concurrent Features | 21+ |
+| **Node.js** | Event Loop, Streams, Clustering, Express | 20+ |
+| **Database** | SQL, NoSQL, Indexing, Sharding, ACID/BASE | 20+ |
+| **Git & GitHub** | Branching, Rebase, Actions, Workflows | 20+ |
+| **Docker & Jenkins** | Containers, Swarm, CI/CD, Docker Compose | 18+ |
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: TailwindCSS
+- **Icons**: React Icons
+- **State Management**: React Hooks
+- **Deployment**: Vercel / Netlify
+
+## 📦 Installation
+
+### Prerequisites
+
+- Node.js 18.x or later
+- npm / yarn / pnpm
+
+### Step-by-Step Setup
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/interview-prep.git
+cd interview-prep
+```
 
 ## Getting Started
 
